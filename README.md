@@ -1,6 +1,6 @@
-# cot-4500-Pro1
+# Requirements
 
-There are no requirements other than pip and base python. **I dont know why numpy is in my requirements.txt file, it isnt used in my program.** I tried to make this so no extra packages are needed, but you might want to use the math module that comes with python for trig functions. I imported it in my main .py files but it didn't sync to the requirements.txt for some reason.
+There are no requirements other than pip and base python. I dont know why numpy is in my requirements.txt file, it isnt used in my program. I tried to make this so no extra packages are needed, but you might want to use the math module that comes with python for trig functions. I imported it in my main .py files but it didn't sync to the requirements.txt for some reason.
 
 I'm not sure what __init__.py is supposed to be.
 
