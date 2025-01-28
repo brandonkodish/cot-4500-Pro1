@@ -15,3 +15,4 @@ Also included in the main files are lists of each parameter and its purpose. The
     :param error_tol: The accepted error tolerance.
     :return:
     """
+The test files are in the test branch on github.
