@@ -6,7 +6,7 @@ I'm not sure what __init__.py is supposed to be.
 
 # How to use
 
-To run any of the algorithms, open the main or test file in pycharm then add a new line on bottom calling the function and setting the parameters and run the program.
+To run any of the algorithms, open the main or test file in pycharm then add a new line on bottom calling the function and setting the parameters and run the program. After you call a function, comment it out before calling the next. 
 
 
 
