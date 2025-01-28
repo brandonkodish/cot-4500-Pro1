@@ -109,6 +109,7 @@ def fixed_point_iteration(func, a, error_tol, max_iter):
             print(f"The error is {abs(a_new-a)}")
             print(f"The number of iterations is {i}")
             print(f"The approximation is {a_new}")
+            quit()
         a = a_new
 
     print("Method Failed. Maximum number of iterations reached.")
