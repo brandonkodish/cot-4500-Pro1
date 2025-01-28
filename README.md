@@ -8,6 +8,8 @@ I'm not sure what __init__.py is supposed to be.
 
 To run any of the algorithms, open the main or test file in pycharm then add a new line on bottom calling the function and setting the parameters and run the program.
 
+
+
 In the files I included a (commented out) example with each one of the functions. It would look like this: 
     
     newtons_method("x**2 - 2", "2*x", 2, 1, 0.01)
