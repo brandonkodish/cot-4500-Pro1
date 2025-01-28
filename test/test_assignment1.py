@@ -114,6 +114,8 @@ def fixed_point_iteration(func, a, error_tol, max_iter):
 
     print("Method Failed. Maximum number of iterations reached.")
 
+#Example to make sure it works
+#fixed_point_iteration("((x**2) - 1)/3", 2, 0.1, 100)
 
 def newtons_method(func, prime, x, n, error_tol):
     """
