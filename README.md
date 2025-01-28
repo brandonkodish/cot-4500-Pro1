@@ -3,7 +3,7 @@ There are no requirements other than pip and base python. I'm not sure why numpy
 
 I'm not sure what __init__.py is supposed to be.
 
-The main meat of the assignment is in the form of four functions. To run any of my algorithms, open the main or test file in pycharm then add a new line calling the function and setting the parameters. In the files I included a (commented out) example with each one of the functions. It would look like this: newtons_method("x**2 - 2", "2*x", 2, 1, 0.01)
+The main bulk of the assignment is in the form of four functions. To run any of my algorithms, open the main or test file in pycharm then add a new line calling the function and setting the parameters. In the files I included a (commented out) example with each one of the functions. It would look like this: newtons_method("x**2 - 2", "2*x", 2, 1, 0.01)
 
 Also included in the main files are lists of each parameter and its purpose. They are directly under where I start to define the function and look like this:  
 
